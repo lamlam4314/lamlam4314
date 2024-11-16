@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 -->
+#### My Stats 📈
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryngai&show_icons=true&theme=tokyonight)
